@@ -39,12 +39,8 @@
 					<path d="M752.278 5.28281V118.938L715.484 5.28281H708.102V5.21045L670.295 5.22492L653.823 77.1259L654.055 78.1245H693.512L630.577 257.689H635.195H660.612H708.218H715.484V142.948L749.629 257.689H807.165V5.28281H752.278Z" fill="currentColor"/>
 				</svg>
 			</a>
-			<div class="hidden md:flex gap-6 text-sm text-gray-400">
-				<a href="#privacy" class="hover:text-white transition-colors">Privacy</a>
-				<a href="#features" class="hover:text-white transition-colors">Features</a>
-			</div>
 		</div>
-		<a href="#contact" class="text-sm text-white hover:text-gray-300 transition-colors">Get Early Access</a>
+		<a href="#contact" class="bg-white text-dark-bg px-6 py-2.5 rounded text-sm font-medium hover:bg-gray-100 transition-colors">Get Early Access</a>
 	</nav>
 
 	<!-- Hero Section -->
@@ -558,15 +554,15 @@
 
 				<div class="divide-y divide-white/5 text-sm text-gray-400 text-left relative z-10">
 					<div class="p-4 pl-16 hover:bg-white/5 transition-colors cursor-pointer flex items-center justify-between group">
-						<span>FactSet</span>
+						<span>Notion</span>
 						<span class="opacity-0 group-hover:opacity-100 text-xs text-brand-primary-light">Connected</span>
 					</div>
 					<div class="p-4 pl-16 hover:bg-white/5 transition-colors cursor-pointer flex items-center justify-between group">
-						<span>SEC Filings</span>
+						<span>Google Calendar</span>
 						<span class="opacity-0 group-hover:opacity-100 text-xs text-brand-primary-light">Connected</span>
 					</div>
 					<div class="p-4 pl-16 hover:bg-white/5 transition-colors cursor-pointer flex items-center justify-between group">
-						<span>Earnings calls</span>
+						<span>Obsidian</span>
 						<span class="opacity-0 group-hover:opacity-100 text-xs text-brand-primary-light">Connected</span>
 					</div>
 				</div>
@@ -658,13 +654,13 @@
 		<div class="absolute bottom-0 left-0 right-0 h-64 bg-gradient-to-t from-brand-green/20 to-transparent pointer-events-none"></div>
 
 		<div class="max-w-4xl mx-auto px-6 relative z-10">
-			<div class="text-[10px] uppercase tracking-widest text-brand-primary-light mb-4">+PUT ENDEX TO WORK</div>
+			<div class="text-[10px] uppercase tracking-widest text-brand-primary-light mb-4">+GET STARTED</div>
 			<h2 class="text-5xl md:text-7xl font-serif mb-12 leading-tight">
-				Hire your firm's first AI financial analyst
+				Take control of your meeting notes
 			</h2>
 			<div class="flex flex-wrap gap-4">
 				<button class="bg-white text-dark-bg px-6 py-3 rounded font-medium hover:bg-gray-100 transition-colors">
-					Enterprise sales
+					Enterprise access
 				</button>
 				<button class="bg-white text-dark-bg px-6 py-3 rounded font-medium hover:bg-gray-100 transition-colors">
 					Join Waitlist
@@ -701,8 +697,8 @@
 
 			<div class="flex justify-between items-end border-t border-white/5 pt-8">
 				<div class="flex items-center gap-4">
-					<span class="text-white font-serif text-xl">Endex</span>
-					<span class="text-xs text-gray-600">Endex 2025. All Rights Reserved</span>
+					<span class="text-white font-serif text-xl">Hyprnote</span>
+					<span class="text-xs text-gray-600">Hyprnote 2025. All Rights Reserved</span>
 				</div>
 				<div class="flex items-center gap-4 text-xs">
 					<a href="#" class="hover:text-white">LinkedIn</a>
@@ -715,7 +711,7 @@
 		<!-- Big Watermark -->
 		<div class="absolute bottom-0 left-0 right-0 flex justify-center pointer-events-none overflow-hidden">
 			<div class="text-[20vw] font-serif text-white/5 leading-none -mb-10 select-none">
-				Endex
+				Hyprnote
 			</div>
 		</div>
 	</footer>
